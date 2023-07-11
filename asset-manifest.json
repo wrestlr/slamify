@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/slamify/static/css/main.d0aa35e2.css",
-    "main.js": "/slamify/static/js/main.1fbf9d9d.js",
+    "main.js": "/slamify/static/js/main.144fc766.js",
     "static/js/77.0a70eeff.chunk.js": "/slamify/static/js/77.0a70eeff.chunk.js",
     "static/js/934.4d104892.chunk.js": "/slamify/static/js/934.4d104892.chunk.js",
     "static/js/510.7a8da073.chunk.js": "/slamify/static/js/510.7a8da073.chunk.js",
@@ -36,7 +36,7 @@
     "static/js/313.824a7be7.chunk.js": "/slamify/static/js/313.824a7be7.chunk.js",
     "index.html": "/slamify/index.html",
     "main.d0aa35e2.css.map": "/slamify/static/css/main.d0aa35e2.css.map",
-    "main.1fbf9d9d.js.map": "/slamify/static/js/main.1fbf9d9d.js.map",
+    "main.144fc766.js.map": "/slamify/static/js/main.144fc766.js.map",
     "77.0a70eeff.chunk.js.map": "/slamify/static/js/77.0a70eeff.chunk.js.map",
     "934.4d104892.chunk.js.map": "/slamify/static/js/934.4d104892.chunk.js.map",
     "510.7a8da073.chunk.js.map": "/slamify/static/js/510.7a8da073.chunk.js.map",
@@ -72,6 +72,6 @@
   },
   "entrypoints": [
     "static/css/main.d0aa35e2.css",
-    "static/js/main.1fbf9d9d.js"
+    "static/js/main.144fc766.js"
   ]
 }
