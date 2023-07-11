@@ -48,7 +48,9 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix",
     "format": "prettier --write \"./**/*.{ts,tsx,js,jsx,json}\" --config ./.prettierrc",
-    "generate-graphql": "graphql-codegen --config .graphqlrc"
+    "generate-graphql": "graphql-codegen --config .graphqlrc",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -77,6 +79,7 @@
     "eslint-plugin-prettier": "4.0.0",
     "eslint-plugin-react": "7.30.0",
     "eslint-plugin-react-hooks": "4.5.0",
+    "gh-pages": "^5.0.0",
     "prettier": "2.6.2"
   }
 }
