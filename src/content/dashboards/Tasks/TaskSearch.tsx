@@ -236,7 +236,7 @@ function TaskSearch() {
                     component={RouterLink}
                     to="#"
                     alt="Remy Sharp"
-                    src="/static/images/avatars/3.jpg"
+                    src="./static/images/avatars/3.jpg"
                   />
                 </Tooltip>
                 <Tooltip arrow title="View profile for Trevor Henderson">
@@ -248,7 +248,7 @@ function TaskSearch() {
                     component={RouterLink}
                     to="#"
                     alt="Trevor Henderson"
-                    src="/static/images/avatars/4.jpg"
+                    src="./static/images/avatars/4.jpg"
                   />
                 </Tooltip>
               </AvatarGroup>
@@ -344,7 +344,7 @@ function TaskSearch() {
                     component={RouterLink}
                     to="#"
                     alt="Remy Sharp"
-                    src="/static/images/avatars/2.jpg"
+                    src="./static/images/avatars/2.jpg"
                   />
                 </Tooltip>
                 <Tooltip arrow title="View profile for Travis Howard">
@@ -356,7 +356,7 @@ function TaskSearch() {
                     component={RouterLink}
                     to="#"
                     alt="Travis Howard"
-                    src="/static/images/avatars/3.jpg"
+                    src="./static/images/avatars/3.jpg"
                   />
                 </Tooltip>
                 <Tooltip arrow title="View profile for Trevor Henderson">
@@ -368,7 +368,7 @@ function TaskSearch() {
                     component={RouterLink}
                     to="#"
                     alt="Trevor Henderson"
-                    src="/static/images/avatars/4.jpg"
+                    src="./static/images/avatars/4.jpg"
                   />
                 </Tooltip>
               </AvatarGroup>
@@ -464,7 +464,7 @@ function TaskSearch() {
                     component={RouterLink}
                     to="#"
                     alt="Remy Sharp"
-                    src="/static/images/avatars/1.jpg"
+                    src="./static/images/avatars/1.jpg"
                   />
                 </Tooltip>
                 <Tooltip arrow title="View profile for Travis Howard">
@@ -476,7 +476,7 @@ function TaskSearch() {
                     component={RouterLink}
                     to="#"
                     alt="Travis Howard"
-                    src="/static/images/avatars/2.jpg"
+                    src="./static/images/avatars/2.jpg"
                   />
                 </Tooltip>
                 <Tooltip arrow title="View profile for Trevor Henderson">
@@ -488,7 +488,7 @@ function TaskSearch() {
                     component={RouterLink}
                     to="#"
                     alt="Trevor Henderson"
-                    src="/static/images/avatars/5.jpg"
+                    src="./static/images/avatars/5.jpg"
                   />
                 </Tooltip>
               </AvatarGroup>

@@ -10,7 +10,7 @@ import * as serviceWorker from 'src/serviceWorker';
 ReactDOM.render(
   <HelmetProvider>
     <SidebarProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/">
         <App />
       </BrowserRouter>
     </SidebarProvider>

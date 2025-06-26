@@ -73,14 +73,14 @@ function Avatars() {
               <Divider />
               <CardContent>
                 <Stack direction="row" spacing={2}>
-                  <Avatar alt="Remy Sharp" src="/static/images/avatars/1.jpg" />
+                  <Avatar alt="Remy Sharp" src="./static/images/avatars/1.jpg" />
                   <Avatar
                     alt="Travis Howard"
-                    src="/static/images/avatars/2.jpg"
+                    src="./static/images/avatars/2.jpg"
                   />
                   <Avatar
                     alt="Cindy Baker"
-                    src="/static/images/avatars/3.jpg"
+                    src="./static/images/avatars/3.jpg"
                   />
                 </Stack>
               </CardContent>
@@ -113,13 +113,13 @@ function Avatars() {
                 <Stack direction="row" spacing={2}>
                   <Avatar
                     alt="Remy Sharp"
-                    src="/static/images/avatars/4.jpg"
+                    src="./static/images/avatars/4.jpg"
                     sx={{ width: 24, height: 24 }}
                   />
-                  <Avatar alt="Remy Sharp" src="/static/images/avatars/5.jpg" />
+                  <Avatar alt="Remy Sharp" src="./static/images/avatars/5.jpg" />
                   <Avatar
                     alt="Remy Sharp"
-                    src="/static/images/avatars/3.jpg"
+                    src="./static/images/avatars/3.jpg"
                     sx={{ width: 56, height: 56 }}
                   />
                 </Stack>
